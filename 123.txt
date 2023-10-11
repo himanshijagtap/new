@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+himanshi is a mard
+sry
+hello
+himu himu
+=======
+hmm
+>>>>>>> revert
